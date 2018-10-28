@@ -2568,5 +2568,10 @@ If you're seeing this error, you're likely using an old version of `react-script
 If you have ideas for more “How To” recipes that should be on this page, [let us know](https://github.com/facebook/create-react-app/issues) or [contribute some!](https://github.com/facebook/create-react-app/edit/master/packages/react-scripts/template/README.md)
 =======
 # awesome-page
+<<<<<<< HEAD
 Build a react project
 >>>>>>> 59b82802db79b80725b96ecb15f5d72d7884219e
+=======
+Build a react project: published at https://ilimavip.github.io/awesome-page/
+
+>>>>>>> 296c781c0725cd9dc6937e55a5ff6f3275b9f145
